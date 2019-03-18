@@ -1,6 +1,6 @@
 # Product API Server
 
-# NOTE: The server is now running on PORT 5000! http://localhost:5000/api/v1/products
+# NOTE: The server is now running on PORT 3000! http://localhost:3000/api/v1/products
 
 ## Pre-requisites
 
@@ -32,4 +32,4 @@ npm start
 ## Explore API
 
 * Server is listening on PORT 5000.
-* http://localhost:5000/api/v1/products
+* http://localhost:3000/api/v1/products
